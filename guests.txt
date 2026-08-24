@@ -1,0 +1,8 @@
+G001 |Heiza  |hieza2772@gmail.com   |601456789
+G002 |Zidan  |zian62@gmail.com      |6097834723  
+G003 |Sarah  |sarah.ann@gmail.com   |6098123428
+G004 |Arooba |aroobash@gmail.com    |60982487243
+G005 |Lujain |Lujain@gmail.com      |605498743
+G006 |Jumanah|jumanah.f@gmail.com   |608734632   
+G009 |Arlene |arlene.lily@gmail.com |609865423
+G011 |Lily   |lily.bloom@gmail.com  |6012348633
